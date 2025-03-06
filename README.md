@@ -1,2 +1,2 @@
 # Backtesting
-This is where i dump my practice scripts! (i am trying to get better)
+This is where i keep my strategies and backtesting scripts. 
