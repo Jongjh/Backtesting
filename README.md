@@ -1,2 +1,2 @@
 # Backtesting
-This is where i keep my strategies and backtesting scripts. 
+Practicing and testing out different strategies
